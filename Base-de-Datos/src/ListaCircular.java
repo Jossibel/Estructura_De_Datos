@@ -1,3 +1,5 @@
-public class ListaCircular {
+public class ListaCircular extends EstructuraEnlistada {
     
+    public ListaCircular(){
+    }
 }
