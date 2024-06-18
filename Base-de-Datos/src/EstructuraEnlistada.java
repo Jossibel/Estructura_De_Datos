@@ -24,5 +24,5 @@ public abstract class EstructuraEnlistada extends EstructuraDeDatos {
     // Métodos específicos de la clase EstructuraEnlistada
     public void metodoEspecifico() {
         // Método específico para la estructura enlistada
-    }
+    }
 }

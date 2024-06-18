@@ -8,5 +8,5 @@ public class AVL extends ArbolBinario {
     // Método para balancear un nodo en un árbol AVL
     public void balancearNodo(Nodo nodo) {
         // Lógica para balancear el nodo en un árbol AVL
-        }
+}
 }
