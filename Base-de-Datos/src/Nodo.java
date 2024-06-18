@@ -1,2 +1,4 @@
-public class Nodo {
+public enum Estado_Nodo {
+    LLENO,
+    VACIO
 }
