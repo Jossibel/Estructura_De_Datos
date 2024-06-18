@@ -1,3 +1,5 @@
-public class ListaEnlazada {
-    
+public class ListaEnlazada extends EstructuraEnlistada {
+
+    public ListaEnlazada(){
+    }
 }
