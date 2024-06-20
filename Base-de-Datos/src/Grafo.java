@@ -1,2 +1,2 @@
-public abstract class Grafo implements EstructuraDeDatos {
+public abstract class Grafo implements EstructuraDeDato {
 }

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArbolBinario implements EstructuraDeDatos {
+public class ArbolBinario implements EstructuraDeDato {
 
     private Nodo raiz;
     

@@ -1,3 +1,3 @@
-public abstract class EstructuraEnlistada implements EstructuraDeDatos {
+public abstract class EstructuraEnlistada implements EstructuraDeDato {
 
 }
