@@ -20,9 +20,9 @@ public class ArbolBinario implements EstructuraDeDato {
         return resultado;
     }
 
-    private List <Integer> posOrden(){
+    public List <Integer> postOrden(){
         List <Integer> resultado = new ArrayList<>();
-        this.raiz.posOrden(resultado);
+        this.raiz.postOrden(resultado);
         return resultado;
     }
 
