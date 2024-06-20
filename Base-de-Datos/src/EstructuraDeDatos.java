@@ -1,4 +1,4 @@
-}public abstract class EstructuraDeDatos {
+public abstract class EstructuraDeDatos {
 
     // Método abstracto para agregar un valor
     public abstract void agregar(Object valor);
@@ -11,5 +11,5 @@
 
     public abstract void POSORDEN();
 
-    public abstract void PREORDEN();
+    public abstract void PREORDEN();
 }

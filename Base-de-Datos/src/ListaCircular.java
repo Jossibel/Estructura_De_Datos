@@ -1,4 +1,4 @@
-public class ListaCircular extends EstructuraEnlistada {
+public abstract class ListaCircular extends EstructuraEnlistada {
     
     public ListaCircular(){
     }

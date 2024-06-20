@@ -1,4 +1,4 @@
-public class ListaDobleEnlazada extends ListaEnlazada {
+public abstract class ListaDobleEnlazada extends ListaEnlazada {
     
     public ListaDobleEnlazada(){
     }

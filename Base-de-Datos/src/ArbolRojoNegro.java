@@ -1,9 +1,11 @@
+import java.awt.*;
+
 public class ArbolRojoNegro extends ArbolBinario {
     // Atributo específico de ArbolRojoNegro
-    private Color color;
+    public COLOR color;
 
     // Constructor de la clase ArbolRojoNegro
-    public ArbolRojoNegro(int orden, int grado, int altura, Posicion posicionActual, Parte_Arbol parteActual, Color color) {
+    public ArbolRojoNegro(int orden, int grado, int altura, Posicion posicionActual, Parte_Arbol parteActual, COLOR color) {
         super(orden, grado, altura, posicionActual, parteActual);
         this.color = color;
     }
@@ -14,11 +16,11 @@ public class ArbolRojoNegro extends ArbolBinario {
     }
 
     // Getter y Setter para el atributo color
-    public Color getColor() {
+    public COLOR getColor() {
         return color;
     }
 
-    public void setColor(Color color) {
+    public void setColor(COLOR color) {
         this.color = color;
     }
 }
